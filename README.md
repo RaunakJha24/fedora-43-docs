@@ -116,4 +116,4 @@ Now, you can select the profile picture for your login account.
 Lastly, you can set up a password for the Digital Scriptorium.  
 
 ### 7.9 Finish Installation
-Click on next and select start using Fedora Linux.  
+Click on next and select **Start using Fedora Linux**.  
