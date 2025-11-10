@@ -112,8 +112,8 @@ Finally, you need to set the login details. You can also go for enterprise login
 ### 7.7 Avatar Selection
 Now, you can select the profile picture for your login account.  
 
-### 7.8 Avatar Selection
+### 7.8 Set Password
 Lastly, you can set up a password for the Digital Scriptorium.  
 
-### 7.9 Avatar Selection
+### 7.9 Finish Installation
 Click on next and select start using Fedora Linux.  
